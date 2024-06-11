@@ -9,7 +9,6 @@ I am a software developer open to change and passionate about the design and pro
 ![5968672](https://github.com/AliJaen/AliJaen/assets/89822367/1e6db27b-9f5d-4a92-9015-f89184f48c2b)
 ![Tailwind](https://github.com/AliJaen/AliJaen/assets/89822367/25bbba62-7f10-4689-a363-4044a8edd95e)
 ![js](https://github.com/AliJaen/AliJaen/assets/89822367/4fed2d32-4e3c-4796-84d0-9f045eb3d6b4)
-
 ![528260](https://github.com/AliJaen/AliJaen/assets/89822367/428bc590-31f9-4f3a-8052-15829df415d4)
 ![images](https://github.com/AliJaen/AliJaen/assets/89822367/ffc1bb0a-3b23-4de1-a5d8-0c9c492412a2)
 ![linux](https://github.com/AliJaen/AliJaen/assets/89822367/aabcb8ec-650a-4544-b4ae-534d490b7037)
