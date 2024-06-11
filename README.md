@@ -4,15 +4,17 @@ I am a software developer open to change and passionate about the design and pro
 
 ## Technologies:
 <!-- Icons size 60px -->
+![Java](https://github.com/AliJaen/AliJaen/assets/89822367/96c21271-5853-4891-b95a-3b473ac39145)
+![images](https://github.com/AliJaen/AliJaen/assets/89822367/0d765326-0ef9-4865-949f-6fb1a11a870b)
 ![php](https://github.com/AliJaen/AliJaen/assets/89822367/9a82354c-3d9f-4a1c-b4a6-1609f0ed1c21)
 ![OIP](https://github.com/AliJaen/AliJaen/assets/89822367/0f28ec1b-7d62-4469-9709-b45032151bef)
 ![5968672](https://github.com/AliJaen/AliJaen/assets/89822367/1e6db27b-9f5d-4a92-9015-f89184f48c2b)
 ![Tailwind](https://github.com/AliJaen/AliJaen/assets/89822367/25bbba62-7f10-4689-a363-4044a8edd95e)
 ![js](https://github.com/AliJaen/AliJaen/assets/89822367/4fed2d32-4e3c-4796-84d0-9f045eb3d6b4)
+![Angular_full_color_logo svg](https://github.com/AliJaen/AliJaen/assets/89822367/cb0c462c-8713-40a8-864f-e5a445decf4a)
 ![528260](https://github.com/AliJaen/AliJaen/assets/89822367/428bc590-31f9-4f3a-8052-15829df415d4)
 ![images](https://github.com/AliJaen/AliJaen/assets/89822367/ffc1bb0a-3b23-4de1-a5d8-0c9c492412a2)
 ![linux](https://github.com/AliJaen/AliJaen/assets/89822367/aabcb8ec-650a-4544-b4ae-534d490b7037)
-
 
 <br>
 
